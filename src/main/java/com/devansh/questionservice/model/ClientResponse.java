@@ -1,0 +1,13 @@
+package com.devansh.questionservice.model;
+
+
+import lombok.Data;
+import lombok.RequiredArgsConstructor;
+
+@Data
+@RequiredArgsConstructor
+public class ClientResponse {
+
+    private Integer id;
+    private String response;
+}
