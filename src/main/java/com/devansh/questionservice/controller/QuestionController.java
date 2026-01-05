@@ -6,7 +6,6 @@ import com.devansh.questionservice.model.Question;
 import com.devansh.questionservice.model.QuestionWrapper;
 import com.devansh.questionservice.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
